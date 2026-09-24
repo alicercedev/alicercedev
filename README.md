@@ -81,14 +81,6 @@ Simula algumas coisas, como a criação de contas. Toma cuidado, hein!
 
 ---
 
-### 📊 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alicercedev&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alicercedev&layout=compact&theme=radical&hide_border=true)
-
----
-
 ### 🌷 Onde me acha?
 
 [![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicercedev)
