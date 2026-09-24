@@ -10,42 +10,42 @@
 
 Gosto de jogos (e desenvolver). 🎮  
 Adoro escrever. ✍️  
-Gosto bastante de projetos inovadores e fora do comum. 💡  
-Tô praticando várias coisas, principalmente de lógica. 🧠  
-Sei um monte de coisa. HTML, CSS, JavaScript, SQL, até GML, do GameMaker. 💻  
+Gosto bastante de coisa nova e esquisita.   
+Tô praticando várias coisas, principalmente de lógica. 
+Sei um monte de coisa. HTML, CSS, JavaScript, SQL, até GML, do GameMaker. 💻 
 Tenho tempo livre e amo colocar ideia ruim pra prática. 🌸
 
 ---
 
-### 💻 Tecnologias
+### Coisas que eu to aprendendo:
 
-#### 🌐 Desenvolvimento Web
+#### Desenvolvimento Web (O básico.)
 
 ![HTML5](https://img.shields.io/badge/HTML5-FF1493?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-FF1493?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FF1493?style=for-the-badge&logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-FF1493?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### 🗄️ Banco de Dados
+#### Banco de Dados (Acho legal até certo ponto.)
 
 ![SQL](https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🎮 Game Development
+#### Game Development (Quando eu me formar nisso aqui...)
 
 ![GameMaker](https://img.shields.io/badge/GameMaker-FF1493?style=for-the-badge&logo=gamemaker&logoColor=white)
 
 ---
 
-### 🎮 Projetos em destaque
+###  ⭐Meus filhos preferidos.
 
-#### 🌸 EvaWiki
+#### EvaWiki
 
-Um projeto de site inspirado em uma wiki, desenvolvido com foco em organização de informações, visual e apresentação de conteúdo.
+Uma wiki do anime Neon Genesis Evangelion. Tem bastante informação sobre o universo e presta de porta de entrada pro mesmo.
 
 **HTML • CSS**
 
-[🔗 Ver projeto](https://github.com/alicercedev/EvaWiki)
+[Ver](https://eva-wiki.vercel.app)
 
 ---
 
