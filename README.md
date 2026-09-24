@@ -2,7 +2,7 @@
 <center>
 # 🌸 oioi. Meu nome é Arthur.
 
-###Cursando Desenvolvimento de Sistemas na ETEC DE POÁ
+### Cursando Desenvolvimento de Sistemas na ETEC DE POÁ
 🌸━━━━━━━━━━━━━━━━━━━━🌸━━━━━━━━━━━━━━━━━━━━🌸
 </center>
 # 🌷 Eu:
