@@ -15,7 +15,7 @@ Tô praticando várias coisas, principalmente de lógica.
 Sei um monte de coisa. HTML, CSS, JavaScript, SQL, até GML, do GameMaker. 💻 
 Tenho tempo livre e amo colocar ideia ruim pra prática. 🌸
 
----
+<img src="./assets/separador.svg">
 
 ### Coisas que eu to aprendendo:
 
