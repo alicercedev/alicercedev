@@ -6,7 +6,7 @@
 <img src="./assets/main.svg">
 
 
-### 🌷 Eu:
+<img src="./assets/seçãoeu.svg">
 
 Gosto de jogos (e desenvolver). 🎮  
 Adoro escrever. ✍️  
