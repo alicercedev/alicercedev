@@ -1,0 +1,160 @@
+<svg
+    width="800"
+    height="80"
+    viewBox="0 0 800 80"
+    xmlns="http://www.w3.org/2000/svg"
+>
+
+    <!-- =========================
+         SAKURA REUTILIZÁVEL
+    ========================== -->
+
+    <defs>
+
+        <symbol id="sakura" viewBox="-45 -45 90 90">
+
+            <!-- Pétala superior -->
+            <path
+                d="M0 0
+                   C-14 -8 -17 -23 -10 -33
+                   C-6 -39 0 -40 0 -40
+                   C0 -40 6 -39 10 -33
+                   C17 -23 14 -8 0 0Z"
+                fill="#FFB7D5"
+                stroke="#D94F87"
+                stroke-width="2"
+            />
+
+            <!-- Pétala superior direita -->
+            <path
+                d="M0 0
+                   C7 -15 21 -20 33 -14
+                   C41 -10 44 -4 40 1
+                   C35 11 18 15 0 0Z"
+                fill="#FFB7D5"
+                stroke="#D94F87"
+                stroke-width="2"
+            />
+
+            <!-- Pétala inferior direita -->
+            <path
+                d="M0 0
+                   C17 3 27 15 24 27
+                   C22 35 17 39 11 37
+                   C0 34 -6 18 0 0Z"
+                fill="#FFB7D5"
+                stroke="#D94F87"
+                stroke-width="2"
+            />
+
+            <!-- Pétala inferior esquerda -->
+            <path
+                d="M0 0
+                   C6 18 0 34 -11 37
+                   C-17 39 -22 35 -24 27
+                   C-27 15 -17 3 0 0Z"
+                fill="#FFB7D5"
+                stroke="#D94F87"
+                stroke-width="2"
+            />
+
+            <!-- Pétala superior esquerda -->
+            <path
+                d="M0 0
+                   C-18 15 -35 11 -40 1
+                   C-44 -4 -41 -10 -33 -14
+                   C-21 -20 -7 -15 0 0Z"
+                fill="#FFB7D5"
+                stroke="#D94F87"
+                stroke-width="2"
+            />
+
+            <!-- Miolo -->
+            <circle
+                cx="0"
+                cy="0"
+                r="7"
+                fill="#FFD1E3"
+                stroke="#D94F87"
+                stroke-width="2"
+            />
+
+        </symbol>
+
+    </defs>
+
+
+    <!-- =========================
+         LINHA ESQUERDA
+    ========================== -->
+
+    <line
+        x1="40"
+        y1="40"
+        x2="290"
+        y2="40"
+        stroke="#FF1493"
+        stroke-width="2"
+    />
+
+
+    <!-- =========================
+         SAKURA ESQUERDA
+    ========================== -->
+
+    <use
+        href="#sakura"
+        x="285"
+        y="-5"
+        width="90"
+        height="90"
+    />
+
+
+    <!-- =========================
+         SAKURA DIREITA
+    ========================== -->
+
+    <use
+        href="#sakura"
+        x="425"
+        y="-5"
+        width="90"
+        height="90"
+    />
+
+
+    <!-- =========================
+         TEXTO POR CIMA DAS FLORES
+    ========================== -->
+
+    <text
+        x="400"
+        y="47"
+        text-anchor="middle"
+        font-family="sans-serif"
+        font-size="20"
+        font-weight="bold"
+        stroke="#D94F87"
+        stroke-width="2"
+        paint-order="stroke"
+        fill="#FFFFFF"
+    >
+        Tecnologias
+    </text>
+
+
+    <!-- =========================
+         LINHA DIREITA
+    ========================== -->
+
+    <line
+        x1="510"
+        y1="40"
+        x2="760"
+        y2="40"
+        stroke="#FF1493"
+        stroke-width="2"
+    />
+
+</svg>
