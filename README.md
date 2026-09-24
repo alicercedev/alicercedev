@@ -35,7 +35,7 @@ Tenho tempo livre e amo colocar ideia ruim pra prática. 🌸
 
 ![GameMaker](https://img.shields.io/badge/GameMaker-FF1493?style=for-the-badge&logo=gamemaker&logoColor=white)
 
----
+<img src="./assets/separa.svg">
 
 ###  ⭐Meus filhos preferidos.
 
@@ -47,7 +47,7 @@ Uma wiki do anime Neon Genesis Evangelion. Tem bastante informação sobre o uni
 
 [O site](https://eva-wiki.vercel.app)
 
----
+<img src="./assets/separa.svg">
 
 #### 🦴 O Resumo da Pré-História
 
@@ -58,7 +58,7 @@ Neal.Fun é a maior inspiração.
 
 [Conhecer](https://o-resumo-da-pre-historia.vercel.app)
 
----
+<img src="./assets/separa.svg">
 
 ####  ⭐PixelHub⭐
 
@@ -69,7 +69,7 @@ Simula algumas coisas, como a criação de contas. Toma cuidado, hein!
 
 [Criar Torneios](https://pixel-hub-puce.vercel.app)
 
----
+<img src="./assets/separa.svg">
 
 ### Atualmente, to aprendendo:
 
@@ -79,13 +79,13 @@ Simula algumas coisas, como a criação de contas. Toma cuidado, hein!
 🎮 GameMaker e GML   
 🌐 Desenvolvimento Web
 
----
+<img src="./assets/separa.svg">
 
 ### 🌷 Onde me acha?
 
 [![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicercedev)
 
-🌸━━━━━━━━━━━━━━━━━━━━🌸
+<img src="./assets/separa.svg">
 
 ### Até mais.
 
