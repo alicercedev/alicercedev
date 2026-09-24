@@ -45,37 +45,38 @@ Uma wiki do anime Neon Genesis Evangelion. Tem bastante informação sobre o uni
 
 **HTML • CSS**
 
-[Ver](https://eva-wiki.vercel.app)
+[O site](https://eva-wiki.vercel.app)
 
 ---
 
 #### 🦴 O Resumo da Pré-História
 
-Um projeto interativo sobre a Pré-História, utilizando recursos de desenvolvimento web para criar uma experiência mais dinâmica.
+Esse aqui foi feito pro evento de portas abertas da escola. Casa Aberta, de 2025. É um resumo sobre todas as invenções descobertas na pré história.
+Neal.Fun é a maior inspiração.
 
 **HTML • CSS • JavaScript**
 
-[🔗 Ver projeto](https://github.com/alicercedev/O-Resumo-da-Pre-Historia)
+[Conhecer](https://o-resumo-da-pre-historia.vercel.app)
 
 ---
 
-#### 🏆 PixelHub
+####  ⭐PixelHub⭐
 
-Uma plataforma voltada para a criação, organização e divulgação de torneios e competições.
+O Pixel Hub é basicamente uma desculpa pra programar um site que envolvesse criação de torneios. É meu bebê.
+Simula algumas coisas, como a criação de contas. Toma cuidado, hein!
 
 **HTML • CSS • JavaScript**
 
-[🔗 Ver projeto](https://github.com/alicercedev/PixelHub)
+[Criar Torneios](https://pixel-hub-puce.vercel.app)
 
 ---
 
-### 🧠 Atualmente estudando
+### Atualmente, to aprendendo:
 
 🟨 JavaScript  
 🟩 Node.js  
 🗄️ Banco de dados  
-🎮 GameMaker e GML  
-🧩 Lógica de programação  
+🎮 GameMaker e GML   
 🌐 Desenvolvimento Web
 
 ---
@@ -88,12 +89,12 @@ Uma plataforma voltada para a criação, organização e divulgação de torneio
 
 ---
 
-### 🌷 Onde me encontrar
+### 🌷 Onde me acha?
 
 [![GitHub](https://img.shields.io/badge/GitHub-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alicercedev)
 
 🌸━━━━━━━━━━━━━━━━━━━━🌸
 
-### Obrigado por passar por aqui! 🌷
+### Até mais.
 
 </div>
