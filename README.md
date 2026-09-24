@@ -15,7 +15,13 @@ Tô praticando várias coisas, principalmente de lógica.
 Sei um monte de coisa. HTML, CSS, JavaScript, SQL, até GML, do GameMaker. 💻 
 Tenho tempo livre e amo colocar ideia ruim pra prática. 🌸
 
-<img src="./assets/separa.svg">
+<use
+    href="#sakura"
+    x="285"
+    y="-5"
+    width="90"
+    height="90"
+/>
 
 ### Coisas que eu to aprendendo:
 
