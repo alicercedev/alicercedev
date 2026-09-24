@@ -5,6 +5,7 @@
 ### Cursando Desenvolvimento de Sistemas na ETEC DE POÁ
 🌸━━━━━━━━━━━━━━━━━━━━🌸
 ### 🌷 Eu:
+</div>
   <ul>
     <li>Gosto de jogos (e desenvolver).</li>
     <li>Adoro escrever.</li>
@@ -12,4 +13,4 @@
   </ul>
 
 
-</div>
+
