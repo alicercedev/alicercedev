@@ -4,7 +4,7 @@
 
 ### Cursando Desenvolvimento de Sistemas na ETEC DE POÁ
 
-<img src="./assets/separador.svg">
+<img src="./assets/main.svg">
 
 ### 🌷 Eu:
 
