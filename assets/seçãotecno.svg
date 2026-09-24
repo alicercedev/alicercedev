@@ -103,11 +103,11 @@
     ========================== -->
 
     <use
-        href="#sakura"
-        x="285"
-        y="-5"
-        width="90"
-        height="90"
+    href="#sakura"
+    x="260"
+    y="-5"
+    width="90"
+    height="90"
     />
 
 
@@ -116,11 +116,11 @@
     ========================== -->
 
     <use
-        href="#sakura"
-        x="425"
-        y="-5"
-        width="90"
-        height="90"
+    href="#sakura"
+    x="450"
+    y="-5"
+    width="90"
+    height="90"
     />
 
 
